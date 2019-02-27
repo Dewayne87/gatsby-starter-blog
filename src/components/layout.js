@@ -26,7 +26,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+            Sprint Challenge Labs Blog
           </Link>
         </h1>
       )
